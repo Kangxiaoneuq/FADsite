@@ -1,7 +1,7 @@
 # FADsite
 A novel fusion technology utilizing complex network and sequence information for FAD-binding site identification.
-All data used in this article can be found in the ./dataset
-The  codes for FADsite is available in ./src. And the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
+
+All data used in this article can be found in the ./dataset. The  codes and the trained models are available in ./src. And the demos can be found in ./demo. See our paper for more details.
 
 
 Requirements
