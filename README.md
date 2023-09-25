@@ -3,7 +3,7 @@ A novel fusion technology utilizing complex network and sequence information for
 
 The protein id, sequence and labels are available in ./dataset. The PDB files of proteins are availavle in ./pdb. The codes for CNRBind are available in ./src. The demo and corresponding documentation files can be found in ./demo. See our paper for more details.
 
-Testing each proteins takes approximately 1 minute, depending on the sequence length
+Testing each proteins takes approximately 1 minute, depending on the sequence length.
 
 ## Test the FADsite_seq
 cd ./src/
