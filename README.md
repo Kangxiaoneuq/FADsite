@@ -5,15 +5,15 @@ The protein id, sequence and labels are available in ./dataset. The PDB files of
 
 Testing each proteins takes approximately 1 minute, depending on the sequence length
 
-#Test the FADsite_seq
+# Test the FADsite_seq
 cd ./src/
 python FADsite_seq.py  
 
-#Test the FADsite on test4 (~4min)
+# Test the FADsite on test4 (~4min)
 cd ./src/
 python FADsite_test4.py  
 
-#Test the FADsite on test6 (~6min)
+# Test the FADsite on test6 (~6min)
 cd ./src/
 python FADsite_test6.py  
 
