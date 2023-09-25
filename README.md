@@ -1,13 +1,24 @@
 # FADsite
 A novel fusion technology utilizing complex network and sequence information for FAD-binding site identification.
 
-All data used in this article can be found in the ./dataset. The  codes and the trained models are available in ./src. And the demos can be found in ./demo. See our paper for more details.
+The protein id, sequence and labels are available in ./dataset. 
+The PDB files of proteins are availavle in ./pdb. 
+The codes for CNRBind are available in ./src. 
+The demo and corresponding documentation files can be found in ./demo. 
+See our paper for more details.
 
+Testing each RNA takes approximately 1 minute, depending on the sequence length
 
-Requirements
-python 3.8.8
-numpy 1.23.5
-scikit-learn 1.2.2
-pandas 3.1.0
+Test the FADsite_seq
+cd ./src/
+python FADsite_seq.py  
+
+Test the FADsite on test4 (~4min)
+cd ./src/
+python FADsite_test4.py  
+
+Test the FADsite on test6 (~6min)
+cd ./src/
+python FADsite_test6.py  
 
 Kang Xiao: xiaokangneuq@163.com
