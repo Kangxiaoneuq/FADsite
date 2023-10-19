@@ -2,7 +2,7 @@
 
 A novel fusion technology utilizing complex network and sequence information for FAD-binding site identification.
 
-The benchmark datasets can be found in ./dataset, the codes for FADsite are available in ./PDB. And the PDB files of proteins are saved in ./results. Furthermore, the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
+The benchmark datasets can be found in ./dataset, the codes for FADsite are available in ./src. And the PDB files of proteins are saved in ./pdb. Furthermore, the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
 
 Testing each proteins takes approximately 2 minute, depending on the sequence length.
 
