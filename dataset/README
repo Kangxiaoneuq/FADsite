@@ -1,4 +1,0 @@
-The file ".txt" is a fasta-like sequence file, except that there is an additional label line for each sequence.
-The labels are extracted from the Uniprot database, where 1 indicates the FAD-binding residues and 0 indicates the non-binding residues.
-Note that the labels are only valid for the specific PDB chain and the specific ligand.
-
