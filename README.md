@@ -7,13 +7,13 @@ The benchmark datasets can be found in ./dataset, the codes for FADsite are avai
 Testing each proteins takes approximately 2 minute, depending on the sequence length.
 
 
-### Testing the FADsite_seq on test4
+## Testing the FADsite_seq on test4
 
 ```bash
 cd ./src/
 python FADsite_seq.py test4  
 ```
-### Testing the FADsite_seq on test6
+## Testing the FADsite_seq on test6
 
 ```bash
 cd ./src/
@@ -25,7 +25,7 @@ cd ./src/
 python FADsite.py test4  
 ```
 
-### Testing the FADsite on test6 (~16min)
+## Testing the FADsite on test6 (~16min)
 ```bash
 cd ./src/
 python FADsite.py test6  
